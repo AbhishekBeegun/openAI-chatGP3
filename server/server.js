@@ -4,6 +4,7 @@ import cors from 'cors'
 import { Configuration, OpenAIApi } from 'openai'
 
 dotenv.config();
+//render.com can be used pu deploy our back end for freeeeeeeeeee.
 
 //.evn eg => OPENAI_API_KEY ="sk-42IQSHc32PPh565MHPGT3BlbkFJhwiyhY2KZfikW0Nhwulh"
 
